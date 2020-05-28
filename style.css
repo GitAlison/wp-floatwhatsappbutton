@@ -1,0 +1,12 @@
+.float-whatsapp {
+  position: fixed;
+  bottom: 0px;
+  right: 10px;
+  width: 60px !important;
+  height: 60px !important;
+  border-radius: 50px;
+  cursor: pointer;
+  background-image: url("https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png");
+  background-size: contain;
+  animation-duration: 2s; /* don't forget to set a duration! */
+}
